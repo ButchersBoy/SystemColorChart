@@ -1,5 +1,5 @@
-SystemColorChart
-================
+SystemColor Chart
+=================
 
 Windows/.Net System Color Chart (includes DWM Colors)
 
